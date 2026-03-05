@@ -11,6 +11,7 @@ What is soil?
 - Unconsolidated material, mineral particles, organic particles, air and water. 
 - Soil is able to hold on to water in its soil pores, roots growing into them take up that nutritious soupy mineral water
 - Soil is not dirt! It is a living system, provides nutrients, water, support, and structure that supports all life. It influences the species composition and productivity, as well as supports wayy more species than we have above earth
+- Soils are a balance of processes, a continuum. Some processes offset horizonation and others promote it
 
 How does soil develop?
 - Pedogenesis: creation/development of the soil. Involves physical and chemical processes, results in the layers
@@ -60,3 +61,4 @@ Time
 - transfers: movement up, down, or laterally of soil constituents
 - losses: movement of soil material down and out of the soil system (aka leeching), transported into the groundwater and eroding away
 - transformations: modification of soil constituents, eg. mineral weathering, organic matter breakdown
+
