@@ -1,0 +1,37 @@
+Chapter 2 - Creating Tables
+- Column names represent discrete data elements defined by a data type
+	- bigserial: integer that auto-increments (postgres specific)
+		- no need to insert this because it will automatically go
+	- varchar: strings with mac lengths specified
+	- covered more thoroughly in chapter 4
+- Not covering table constraints for now
+- Text and quotes require numbers, numbers don't
+- General convention is to use underscores in naming
+- Double quotes and single quotes are not interchangeable
+
+Chapter 3 - Select
+- * is a called a wildcard, a stand-in for a value. It represents everything that a value could be.
+	- SELECT * fetches the rows and columns of a specified table
+- Usually more standard to select columns from tables
+- Use this to start exploring your data, checking whether the data is present/in the expected format
+- ORDER BY can be used to sort values without changing the original table. It can accept numbers instead of column names, with numbers identifying the sort column according to its position in relation to the selected columns
+	- Can be used on strings to sort alphabetically, can kind of group named groups together
+	- Can be used multiple times to group then sort, but will eventually hit a wall where you can't tell the differences. Better to choose key columns and observe those.
+- DISTINCT eliminates duplicates, showing us only unique values.
+	- Can be used to find spelling mistakes, incorrectly formatted dates, etc.
+	- For each X in the table, what are all the Y values?
+- WHERE limits the rows a query returns
+	- =: equal to
+	- <> or !=: not equal to
+	- <, >: less than, greater than
+	- <=, >=: less than or equal to, greater than or equal to
+	- BETWEEN: within a range
+	- IN: match one set of values
+		- WHERE last_name IN ('Bush', 'Roush')
+	- LIKE: match a pattern (case sensitive)
+		- WHERE first_name LIKE 'Sam%'
+		- % is a wildcard. Eg. 'a%' means words that start with a, '%a' means words that end with a, '%a%' is words with a inside it.
+	- ILIKE: match a pattern (case insensitive)
+		- WHERE first_name ILIKE 'sam%'
+	- NOT: negates a condition
+		- WHERE first_name NOT ILIKE 'sam%'
