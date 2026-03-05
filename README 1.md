@@ -1,3 +1,0 @@
-# practical-sql
-
-test
