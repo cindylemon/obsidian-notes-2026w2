@@ -12,6 +12,9 @@ Chapter 2 - Creating Tables
 Chapter 3 - Select
 - * is a called a wildcard, a stand-in for a value. It represents everything that a value could be.
 	- SELECT * fetches the rows and columns of a specified table
+- % is a wildcard. It represents one or more characters
+	- Eg. 'a%' means words that start with a, '%a' means words that end with a, '%a%' is words with a inside it.
+- _ is a wildcard that means just one character
 - Usually more standard to select columns from tables
 - Use this to start exploring your data, checking whether the data is present/in the expected format
 - ORDER BY can be used to sort values without changing the original table. It can accept numbers instead of column names, with numbers identifying the sort column according to its position in relation to the selected columns
@@ -25,13 +28,12 @@ Chapter 3 - Select
 	- <> or !=: not equal to
 	- <, >: less than, greater than
 	- <=, >=: less than or equal to, greater than or equal to
-	- BETWEEN: within a range
+	- BETWEEN: within a range (inclusive)
 	- IN: match one set of values
 		- WHERE last_name IN ('Bush', 'Roush')
 	- LIKE: match a pattern (case sensitive)
 		- WHERE first_name LIKE 'Sam%'
-		- % is a wildcard. Eg. 'a%' means words that start with a, '%a' means words that end with a, '%a%' is words with a inside it.
-	- ILIKE: match a pattern (case insensitive)
+	- ILIKE: match a pattern (case insensitive, postgres only)
 		- WHERE first_name ILIKE 'sam%'
 	- NOT: negates a condition
 		- WHERE first_name NOT ILIKE 'sam%'
