@@ -6,8 +6,10 @@ Forest floor layers
 	- Moder: mix. Fungi and soil organisms decomposing. Fungi keeing things in place but also organisms moving things around
 	- Mull: deciduous/grasslands, quite basic in pH. Dominated by bacteria and bugs that move around, so rapid decomposition (warmer, humid), lots of mixing through animals/organisms mixing humus with the mineral soil immediately. No F and H layers, just decomposed and mixed in stuff.
 - A horizon: minerals, white, weathered from the rock down below. Incorpoated some humus/organic material, dark, rich, most productive horizon in mineral soil, aka top soil.
-- B horizon: red, some of the organic stuff from A gets washed out (gets illuviated).
-- C horizon: sand, rocks, parent material that weathers to create minerals that form the soil profile
+- Ae horizon: zone of eluviation/leaching. Some of the organic stuff from A gets washed out/moves out of the layer (eluviated). lighter washed color
+- B horizon: red, diagnostic/genetic horizon. gives an expression of what's happening in the climate. everything gets deposited here, basically forming the heart of the soil. classified off of this. Zone of illuviation or deposition (I instead of E)
+- C horizon: sand, rocks, parent material that weathers to create minerals that form the soil profile. parent material, unconsolidated material that has been affected little by the soil forming processes. between the bedrock and the soil
+- D horizon: bedrock
 
 What is soil?
 - complex, alive place. Skin of the earth, outer living layer, about a meter deep that life grows out of
@@ -70,6 +72,26 @@ Soil Formation in Action
 	- Forest floor: upper skin, organic material, divided into layer (litter, fermentation, humus)
 	- Organic layer underneath, mineral soil, horizons
 	- Not every soil type contains every layer/horizon. Influenced by CLOPRT
+- CLORPT acts differently on the soils by changing the way they look and stuff
+
+The ability of soil to support life functions depends on
+- CLORPT
+	- Climate: temp, moisture, impacts temperature and moisture
+	- Organism: contributes organic matter, biological processes
+	- Relief/topographic affect: how water moves, influencing soil moisture, leaching, erosion
+	- Parent material: starting mineral composition of soil
+	- Time: allowing processes
+- Also depends on physical (texture, structure) and chemical properties (pH, Ion Exchange Capacity)
+
+Soil Components
+- Half is solid particles, half is pore space. 
+	- Around 25% air and 25% water in ideal conditions.
+	- Solid is mostly mineral particles, around 45%
+	- Organic matter is around 5%, mostly from humus
+- Like a chocolate chip spongecake. Solid part is the cake part, Pore spaces are like air pockets, organic matter is like the chocolate chips. 
+	- Even if there are not alot of chocolate chips, they make a big difference
+	- Organic matter is a small percentage, but it makes a bit difference (esp. in water retention and nutrient supply)
+		- Forest soils have more biological activity and stability than agricultural soil because they have higher organic matter content
 - 
 
 
