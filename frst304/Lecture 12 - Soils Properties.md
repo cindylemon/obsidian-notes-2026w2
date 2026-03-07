@@ -1,9 +1,12 @@
 Forest floor layers
-- Litter: thick organic layer, matted, hard to dig. Lots of roots, fungi
-- Fermentation layer: decomposition of the litter, fungi part of the matter litter helps
-- Humus: very decomposed organic material, dark, thick, smooth, paste-y
-- A horizon: minerals, white, weathered from the rock down below
-- B horizon: red
+- Litter: thick organic layer, matted, hard to dig. Lots of roots, fungi. Relatively fresh organic material that drops from above, wth original structures visibly intact
+- Fermentation layer: decomposition of the litter, fungi part of the matter litter helps. Dominated by partly decomposed organic materials. You can kinda tell what they are but you can barely recognize them. Organic material/energy being extracted
+- Humus: very decomposed organic material, dark, thick, smooth, paste-y. Highly decomposed in advanced stage of decomposition
+	- Mor: under coniferous, more acidic. Fungi dominate the decomposition, don't physically move things. They exude acids. Quite layered, matted, abrupt boundaries.
+	- Moder: mix. Fungi and soil organisms decomposing. Fungi keeing things in place but also organisms moving things around
+	- Mull: deciduous/grasslands, quite basic in pH. Dominated by bacteria and bugs that move around, so rapid decomposition (warmer, humid), lots of mixing through animals/organisms mixing humus with the mineral soil immediately. No F and H layers, just decomposed and mixed in stuff.
+- A horizon: minerals, white, weathered from the rock down below. Incorpoated some humus/organic material, dark, rich, most productive horizon in mineral soil, aka top soil.
+- B horizon: red, some of the organic stuff from A gets washed out (gets illuviated).
 - C horizon: sand, rocks, parent material that weathers to create minerals that form the soil profile
 
 What is soil?
@@ -63,5 +66,10 @@ Time
 - transformations: modification of soil constituents, eg. mineral weathering, organic matter breakdown
 
 Soil Formation in Action
+- Soil forms layers and horizons as they develop
+	- Forest floor: upper skin, organic material, divided into layer (litter, fermentation, humus)
+	- Organic layer underneath, mineral soil, horizons
+	- Not every soil type contains every layer/horizon. Influenced by CLOPRT
+- 
 
 
