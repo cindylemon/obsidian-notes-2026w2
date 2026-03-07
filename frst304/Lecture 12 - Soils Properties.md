@@ -83,7 +83,7 @@ The ability of soil to support life functions depends on
 	- Time: allowing processes
 - Also depends on physical (texture, structure) and chemical properties (pH, Ion Exchange Capacity)
 
-Soil Components
+Physical Soil Components
 - Half is solid particles, half is pore space. 
 	- Around 25% air and 25% water in ideal conditions.
 	- Solid is mostly mineral particles, around 45%
@@ -92,6 +92,27 @@ Soil Components
 	- Even if there are not alot of chocolate chips, they make a big difference
 	- Organic matter is a small percentage, but it makes a bit difference (esp. in water retention and nutrient supply)
 		- Forest soils have more biological activity and stability than agricultural soil because they have higher organic matter content
-- 
+- Stoniness: larger soil fragments like cobbles, gravel, and stones greater than 2 mm in diameter. Not included when classifying soil texture, but common in forest soils
+	- Like rocks in a fish tank. Influence the environment but do not provide food. Affects how water and air move through the soil, help soils warm up more quickly. Too many can limit root growth. It's about the balance, they're not always bad.
+- Texture: portion of sand, silt, and clay in the mineral portion of soil.
+	- Size-wise: sand > silt > clay. This makes them behave very differently
+	- Sand  = basketball, creates large spaces and drains water quickly
+	- Silt = marble
+	- Clay = flour, sticky, able to hold water and nutrients
+	- Sandy soil is like a colander, water drains quickly. Clay soil is like a sponge, holding water tightly, which is why clay soil has higher water and nutrient retentions
+	- Loam is a balanced mix, combining good drainage with good water holding capacity. it is ideal. We can use soil texture triangles to group them and stuff
+
+Organic Soil Components
+- Includes plant and animal tissues in various stages of decomposition
+- Fuel for soil organisms in the food web
+- soil organic matter is like a natural glue that holds soil particles together, making it more stable and making it easier for roots to grow water through
+	- Supports carbon storage long term and soil ability to hold water
+- Soil organic matter accounts for the most carbon. Other aspects are important, but organic matter stores the most carbon. It's a major carbon storage system.
+- Soil food web is like an underground ecosystem/hidden city. Organic matter is broken down, eaten, then eaten by larger organisms. Energy is constantly flowing between trophic levels, and releasing nutrients back into the soil.
+	- About recycling nutrients, making them available for plants again
+	- Primary function is transferring energy across trophic levels. Energy flow and nutrient cycl
+- Soil Structure refers to how soil particles sand, silt, and clay are grouped together into larger units called aggregates. It's like building blocks instead of loose individual particles.
+	- When soil has good structure it allows water to move easily and improve aeration, important for roots and microrganisms
+	- Influenced by chemical processes, salts, plants
 
 
