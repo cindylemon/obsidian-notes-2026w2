@@ -92,3 +92,6 @@ Chapter 4: Understanding Data Types
 - you can use function CAST() to convert data types if the target can acomodate the original value
 	- eg. CAST(timestamp_column AS varchar(10))
 	- Shorthand notation is ::, so timestamp_column::varchar(10)
+
+Chapter 5: Importing and Exporting Data
+- 
