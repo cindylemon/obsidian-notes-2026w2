@@ -99,4 +99,6 @@ Chapter 5: Importing and Exporting Data
 - The LIMIT clause in selection causes the query to return only the number of rows we want
 - You can specify present columns in the 
 - You can add a WHERE clause to a COPY statement to filter which rows from the source CSV you import a table
-- Temporary tables are used only until
+- Temporary tables are used only until the database session is over. Useful for intermediary operations, such as filling a cell in when importing CSVs
+- Particular columns can be exported by specifying them when copying out
+- Sometimes, SQL COPY can't handle certain imports/exports because of file paths and differences between different machines and remote machines and stuff. One workaround is to use pgAdmin's built-in import/export wizard.
