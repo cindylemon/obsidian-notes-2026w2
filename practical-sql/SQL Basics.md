@@ -74,7 +74,21 @@ Chapter 4: Understanding Data Types
 			- double precision: 15 decimal digits precision, 8 bytes
 - When working with numbers, try to use integers. Choose numerical/decimal when you need calculations (like money), try to use something big enough
 - Databases have an awareness of the current time zone and can handle dates, times, and calendar nuances
-	- timestamp: \[4713BC, 294276AD], date and time, 8 bytes
+	- timestamp: \[4713BC, 294276AD], date and time, 8 bytes. recommended to use with "with time zone", postgres has timestamptz
 	- date: \[4713BC, 5874897AD], date, 4 bytes
 	- time: \[00:00:00, 24:00:00], time, 8 bytes
-	- interval: +/-1
+	- interval: +/-1780,000,000 years, time interval
+- Other misc types:
+	- json: stores exact copy of JSON text
+	- jsonb: stores JSON text in a binary format
+	- Boolean: true/false
+	- Geometric types include points, lines, circles, and other 2D objects
+	- Text search types: postgres' full-text search enginer
+	- Network address types: IP and MAC addresses
+	- UUID type: sometimes used as a unique key value in tables
+	- Range types: specify a range of values, such as ints or timestamps
+	- Types for storing binary data
+	- XML type that stores info in structured format
+- you can use function CAST() to convert data types if the target can acomodate the original value
+	- eg. CAST(timestamp_column AS varchar(10))
+	- Shorthand notation is ::, so timestamp_column::varchar(10)
