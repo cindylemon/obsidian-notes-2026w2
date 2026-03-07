@@ -96,3 +96,7 @@ Chapter 4: Understanding Data Types
 Chapter 5: Importing and Exporting Data
 - It's important to distinguish codes from numbers. We won't do math and stuff with them so we don't need to use numbers
 - When creating tables, the CONSTRAINT clause specifies the columns that represent the key
+- The LIMIT clause in selection causes the query to return only the number of rows we want
+- You can specify present columns in the 
+- You can add a WHERE clause to a COPY statement to filter which rows from the source CSV you import a table
+- Temporary tables are used only until
