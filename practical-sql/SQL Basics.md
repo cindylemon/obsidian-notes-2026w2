@@ -37,3 +37,18 @@ Chapter 3 - Select
 		- WHERE first_name ILIKE 'sam%'
 	- NOT: negates a condition
 		- WHERE first_name NOT ILIKE 'sam%'
+
+- General convention:
+	SELECT column_names
+	FROM  table_name
+	WHERE criteria
+	ORDER BY column_names;
+
+Chapter 4: Understanding Data Types
+- In SQL dbs, each column can only hold one data type
+- Characters
+	- char(n): a fixed-length column where the character length is specified by n. The column stores n characters per row, no matter how you insert. Postgres will pad everything with spaces. Aka character(n)
+	- varchar(n) is a column where the max length is specified by n. Postgres will not store extra spaces. Saves space in large dbs. Aka character varying(n)
+	- text: unlimited length variable. Longest is allgedly 1 gb. Not a SQL standard but common in other db systems
+- COPY table_name FROM is the importing function
+- COPY table_name TO is the exporting function
