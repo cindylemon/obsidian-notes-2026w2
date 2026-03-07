@@ -101,6 +101,9 @@ Physical Soil Components
 	- Clay = flour, sticky, able to hold water and nutrients
 	- Sandy soil is like a colander, water drains quickly. Clay soil is like a sponge, holding water tightly, which is why clay soil has higher water and nutrient retentions
 	- Loam is a balanced mix, combining good drainage with good water holding capacity. it is ideal. We can use soil texture triangles to group them and stuff
+- Soil Structure refers to how soil particles sand, silt, and clay are grouped together into larger units called aggregates. It's like building blocks instead of loose individual particles.
+	- When soil has good structure it allows water to move easily and improve aeration, important for roots and microrganisms
+	- Influenced by chemical processes, salts, microbial activities, cycles, etc. Soil is very dynamic, constantly being built and rebuilt
 
 Organic Soil Components
 - Includes plant and animal tissues in various stages of decomposition
@@ -111,8 +114,7 @@ Organic Soil Components
 - Soil food web is like an underground ecosystem/hidden city. Organic matter is broken down, eaten, then eaten by larger organisms. Energy is constantly flowing between trophic levels, and releasing nutrients back into the soil.
 	- About recycling nutrients, making them available for plants again
 	- Primary function is transferring energy across trophic levels. Energy flow and nutrient cycl
-- Soil Structure refers to how soil particles sand, silt, and clay are grouped together into larger units called aggregates. It's like building blocks instead of loose individual particles.
-	- When soil has good structure it allows water to move easily and improve aeration, important for roots and microrganisms
-	- Influenced by chemical processes, salts, plants
+- Organic matter content is important as a nutrient source as it holds water and moderates temperatures. It contributes to aggregation, CEC, and acts as fuel for soil microorganisms
+	- Soil with organic matter is like a well insulated lunch box. Organic matter is like a blanket/insulation. Also holds water like a sponge, further stabilizing the temperature
 
 
