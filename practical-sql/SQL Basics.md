@@ -94,4 +94,5 @@ Chapter 4: Understanding Data Types
 	- Shorthand notation is ::, so timestamp_column::varchar(10)
 
 Chapter 5: Importing and Exporting Data
-- 
+- It's important to distinguish codes from numbers. We won't do math and stuff with them so we don't need to use numbers
+- When creating tables, the CONSTRAINT clause specifies the columns that represent the key
