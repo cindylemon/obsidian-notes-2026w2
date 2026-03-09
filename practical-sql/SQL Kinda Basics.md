@@ -1,0 +1,13 @@
+Chapter 6 - Basic Math and Stats with SQL
+- Postgres operations
+	- / = quotient only devision
+	- |/ = Square root
+	- ||/ = Cube root
+- Returned data type patterns:
+	- 2 integers return an integer
+	- Numeric on either/both sides of the operator returns a numeric
+	- Anything with a float returns a float or double precision
+	- Might need to use CAST if you don't like the returned data type
+- With some systems, you can omit table names from SELECT queries to do calculations
+- Prefix operator: comes before a single value
+- Suffix operator: factorial !
