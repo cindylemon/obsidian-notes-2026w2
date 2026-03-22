@@ -31,5 +31,6 @@ Soil Chemical Properties
 - Soil solutions are soups of many dissolved chemicals in water available for plants and soil organisms
 	- Cations (+): Al3, NH4, K, Mg, Ca
 	- Anions (-): Cl, NO3, PO3, SO4, HCO3
-- Cation Exchange Capacity (CEC) is the ability of soil to hold onto nutrients
-- 
+- Cation Exchange Capacity (CEC) is the ability of soil to hold onto nutrients/cations
+	- Good indicator of soil fertility, quality and productivity
+- Clays and humus tend to be negatively charged overall, so they're good measures of soil fertility
