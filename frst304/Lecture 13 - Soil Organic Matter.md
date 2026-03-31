@@ -33,4 +33,9 @@ Soil Chemical Properties
 	- Anions (-): Cl, NO3, PO3, SO4, HCO3
 - Cation Exchange Capacity (CEC) is the ability of soil to hold onto nutrients/cations
 	- Good indicator of soil fertility, quality and productivity
-- Clays and humus tend to be negatively charged overall, so they're good measures of soil fertility
+	- We don't want nutrients to leak out of the soil
+	- Constantly changing cations on and off the structure and the solution
+	- Low surface area means less opportunity for cations to exchange off that surface
+- Clays and humus tend to be negatively charged overall, so they're good measures of soil fertility (Organic Soils)
+- Sands have low cation exchange capacity
+- The bigger the charge, the tighter the hold.
