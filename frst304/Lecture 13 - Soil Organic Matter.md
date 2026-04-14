@@ -65,7 +65,7 @@ The Nitrogen Cycle
 	- Phosphorous is limiting in the southern hemisphere
 - Massively influenced by humans
 	- Adding fertilizer
-- Atmosphere is 80% nitrogen, but not available to plants in gas. has to be fixed to NH4/ammonium for plants to use it. plants love ammoniu
+- Atmosphere is 80% nitrogen, but not available to plants in gas. has to be fixed to NH4/ammonium for plants to use it. plants love ammonium
 	- Lightning is something that fixes nitrogen to NH4, released into raindrops (1kg per hectare per year)
 	- Certain, limited, special plants can fix nitrogen (forest of just alders can fix 500kg of nitrogen per hectare)
 		- bacteria that lives in their roots fixes the gas
@@ -75,4 +75,9 @@ The Nitrogen Cycle
 		- Half the nitrogen in our terrestrial ecosystem comes from fertilizer
 		- Too much can leach out, ending up in streams, causing eutrophication
 	- Animals will get protein from nitrogen-fixing plants, excrement has the bacteria, released back in the soil, then taken up by plants
-	- 
+- Bacteria can chew on dead/dying organic material and turn it into ammonium in their excrement (mineralization: organit --> mineralized nitrogen)
+- Ammonium easily turns into nitrate after oxidization, which means it can get into the streams easily. Ammonium to nitrate process is called nitrification
+- Nitrate can go back to the atmosphere as N2 or N2O (denitrification)
+	- N2O is a greenhouse gas, 300x the warming capacity as CO2
+	- N2O can eat up the ozone layer
+- Tightly linked to carbon cycle, more available nitrogen in the soil solution, more trees and plants grow/absorb more carbon
