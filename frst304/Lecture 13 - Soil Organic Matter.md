@@ -42,6 +42,37 @@ Soil Chemical Properties
 	- Constantly changing cations on and off the structure and the solution
 	- Low surface area means less opportunity for cations to exchange off that surface
 - Clays and humus tend to be negatively charged overall, so they're good measures of soil fertility (Organic Soils)
-- The bigger the charge, the tighter the hold.
-	- Lower surface area means less opportunity for cations to exchange off that surface
+- Lower surface area means less opportunity for cations to exchange off that surface. Larger particles mean larger CEC.
 	- Sands have low cation exchange capacity
+- The bigger the charge, the tighter the hold.
+
+Ions and soil
+- Phosphate is held tightly in soil. 
+	- Still can't put too much phosphate or fertilizer cus it'll drain through the soil. Not just adding too much, but also it's not held as tightly because of the negatives
+- Hard to retain nitrate (NO3) in soils
+	- likely drains through if the nitrate is not immediately taken up by plants/put in carefully
+- Eutrophication: choking out life in streams due to excess NO3 causing excess growth of algae. Limiting oxygen
+- Nutrient availability depends on the pH
+	- Generally more available under neutral pH soils despite our acidic soils
+	- Affected by parent material, conifer and moss litter, organic acids released by plants and soils, respiration
+	- Low availability of major cations and anions needed for plant growth
+
+The Nitrogen Cycle
+- Nitrogen is the most limiting nutrient to plant growth (and therefore to the carbon cycle) in the northern hemisphere
+	- Without nitrogen, no proteins can be made
+	- Not a lot of nitrogen fixing plants
+	- Comes in rainfall, not as much rainfall here
+	- Phosphorous is limiting in the southern hemisphere
+- Massively influenced by humans
+	- Adding fertilizer
+- Atmosphere is 80% nitrogen, but not available to plants in gas. has to be fixed to NH4/ammonium for plants to use it. plants love ammoniu
+	- Lightning is something that fixes nitrogen to NH4, released into raindrops (1kg per hectare per year)
+	- Certain, limited, special plants can fix nitrogen (forest of just alders can fix 500kg of nitrogen per hectare)
+		- bacteria that lives in their roots fixes the gas
+	- Some bacteria lives in the soil can do it (not that much)
+	- People can fix nitrogen by adding fertilizer
+		- Adding energy to nitrogen becomes pellets of fertilizer
+		- Half the nitrogen in our terrestrial ecosystem comes from fertilizer
+		- Too much can leach out, ending up in streams, causing eutrophication
+	- Animals will get protein from nitrogen-fixing plants, excrement has the bacteria, released back in the soil, then taken up by plants
+	- 
