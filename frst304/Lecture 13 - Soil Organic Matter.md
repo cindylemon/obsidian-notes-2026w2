@@ -143,4 +143,6 @@ Soil biodiversity
 What is a healthy soil?
 - Has a healthy soil food web with lots of diversity
 - Good, rich, loamy, organic matter
-- 
+- Good structure, porosity, not too much fertilizer
+- Good pH
+![[Pasted image 20260414172943.png]]
