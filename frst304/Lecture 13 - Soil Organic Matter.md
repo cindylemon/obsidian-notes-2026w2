@@ -96,4 +96,51 @@ Soil biodiversity
 	- 5-4000 archael species
 - 90000000 bacteria/cm3, 20000 fungi/cm3, 5000 protozoa/cm3, 100 nematodes/cm3, 100 mintes/collembola/cm3
 - Why is soil biodiversity so important?
-	- Key to nutrient cycle, energy f
+	- Key to nutrient cycle, energy flow, storage of carbon
+	- Produce and consume gases
+	- Destroy pollutants, treat wastes
+	- Used for biocontrol of plant and animal pests
+	- Soil microorganisms are major sources of pharmaceuticals, antibiotics, immunosuppressants, enzymes, and anti-tumor agents
+- Macrofauna (mollusks, earthworms, millipedes, insect larvaes), cms long (pretty big)
+	- Movers and shakers, responsible for soil mixing. Large enough to disrupt soil structure and mix it up.
+	- Litter consumers and plant herbivores. Eating and breaking down bigger stuff
+	- Feed on other smaller fauna.
+	- Get eaten by birds and stuff, a part of litter decomposition
+	- Also include centipedes, spiders, beetles
+- Meso fauna (collembola, mites, tardigrades, enchytraeids) 200 micrometres to 1 cm
+	- Fragment debris and promote soils tructure
+	- Enchytraeids are small "pot" worms, mainly bacterial and fungal feeders
+	- Mites: litter decomposers, fungal feeders
+	- Collembola: litter and fungal feeders
+	- Tardigrades: litter and faunal feeders
+	- Pauropods: small relatives of centipedes, living on deritus, fungi, litter
+	- Copepods: eat bacteria
+- microfauna (protozoa, nematodes) less than 200 micrometers
+	- Confined to water films, regulate soil microbes
+	- Protozoa: litter decomposers and bacterial feeders
+	- Nematodes: bacterial, fungal, plant feeders, insect pathogens
+- Microbial Diversity (0.3-10 micrometres)
+	- Archae (0.5-2 micrometres)
+		- "Weird" bacteria
+		- Mimic old bacteria
+		- found in thermal vents, sulfur lakes, hot geezers, salt lakes, harsh environments
+	- Bacteria (0.5-2 micrometres)
+		- Prokaryotic, unicellular
+		- Important in nutrient cycling, degrade litter, plant roots, animal tissues, faeces
+		- Can fix nitrogen, denitrify, mineralization
+		- More abundant in neutral or alkaline pH soils
+		- Symbiotic bacteria live in nodules in plants and feed off of photosynthate to fix nitrogen. It protects the enzyme in the bacteria that does the fixing, as nitrogenase is very sensitive to oxygen
+	- Fungi (0.3-10 micometres)
+		- Eukaryotes, filamentous
+			- Deuteromycetes, basidiomycetes
+		- Primary forest decomposers, decompose, taking up, infecting other plants for nutrients
+		- Love acidic pH
+	- Algae
+	- Viruses
+	- Lichens
+- Some things just live in soil, fixing nitrogen, breaking down phosphorous, making hormones, suppressing pathogens, etc.
+
+What is a healthy soil?
+- Has a healthy soil food web with lots of diversity
+- Good, rich, loamy, organic matter
+- 
