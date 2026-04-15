@@ -75,9 +75,25 @@ The Nitrogen Cycle
 		- Half the nitrogen in our terrestrial ecosystem comes from fertilizer
 		- Too much can leach out, ending up in streams, causing eutrophication
 	- Animals will get protein from nitrogen-fixing plants, excrement has the bacteria, released back in the soil, then taken up by plants
-- Bacteria can chew on dead/dying organic material and turn it into ammonium in their excrement (mineralization: organit --> mineralized nitrogen)
+- Bacteria can chew on dead/dying organic material and turn it into ammonium in their excrement (mineralization: organic --> mineralized nitrogen)
 - Ammonium easily turns into nitrate after oxidization, which means it can get into the streams easily. Ammonium to nitrate process is called nitrification
 - Nitrate can go back to the atmosphere as N2 or N2O (denitrification)
 	- N2O is a greenhouse gas, 300x the warming capacity as CO2
 	- N2O can eat up the ozone layer
 - Tightly linked to carbon cycle, more available nitrogen in the soil solution, more trees and plants grow/absorb more carbon
+- Potential practical solutions
+	- Add nitrogen slowly so that plants can take it up (precision fertilizer)
+	- Not use man-made and rely more on natural nitrogen fixation
+	- Recover nitrogen that has been lost
+
+Soil biodiversity
+- Nitrogen cycle is linked to the soil
+- Organisms are active in cycling all nutrients (soil food web)
+- Soil organic matter is not just in the soil floor, but also in the mineral soil profile
+- 1 tsp of soil contains more microbes than people on earth. less than 1% have been observed under a microscope before.
+	- We know 1000 fungal species
+	- 26000-50000 bacterial species
+	- 5-4000 archael species
+- 90000000 bacteria/cm3, 20000 fungi/cm3, 5000 protozoa/cm3, 100 nematodes/cm3, 100 mintes/collembola/cm3
+- Why is soil biodiversity so important?
+	- Key to nutrient cycle, energy f
